@@ -1,6 +1,5 @@
 # [독하게 시작하는 C 프로그래밍]
-
-[k322433122_1](https://image.aladin.co.kr/product/6203/71/cover500/k322433122_1.jpg)<!-- {"preview":"true"} -->
+![](https://image.aladin.co.kr/product/6203/71/cover500/k322433122_1.jpg)
 
 ## 리뷰
 CS 및 Objective-C 학습을 위해 C언어를 공부했습니다.  <br/>
